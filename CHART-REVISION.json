@@ -1,0 +1,44 @@
+{
+  "megalovania": {
+    "revision": "v1.8",
+    "originalEvents": 697,
+    "events": 691,
+    "removedTaps": 6,
+    "holdsUnchanged": 50,
+    "gearsUnchanged": 20,
+    "minimumTapGapBefore": 0.03333299999999895,
+    "minimumTapGapAfter": 0.125,
+    "medianTapShiftMs": 8.332999999993262,
+    "maxTapShiftMs": 25.000000000005684,
+    "snappedTaps": 616,
+    "tapCount": 621
+  },
+  "unwelcome": {
+    "revision": "v1.8",
+    "originalEvents": 769,
+    "events": 674,
+    "removedTaps": 95,
+    "holdsUnchanged": 72,
+    "gearsUnchanged": 42,
+    "minimumTapGapBefore": 0.03333299999999895,
+    "minimumTapGapAfter": 0.1666659999999922,
+    "medianTapShiftMs": 0.0010000000028043132,
+    "maxTapShiftMs": 33.33400000001063,
+    "snappedTaps": 560,
+    "tapCount": 560
+  },
+  "papipupipa_ap": {
+    "revision": "v1.8",
+    "originalEvents": 1084,
+    "events": 961,
+    "removedTaps": 123,
+    "holdsUnchanged": 28,
+    "gearsUnchanged": 38,
+    "minimumTapGapBefore": 0.03333299999999895,
+    "minimumTapGapAfter": 0.14166599999998652,
+    "medianTapShiftMs": 0.0,
+    "maxTapShiftMs": 33.334000000024844,
+    "snappedTaps": 894,
+    "tapCount": 895
+  }
+}
